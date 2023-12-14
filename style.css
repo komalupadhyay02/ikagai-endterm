@@ -28,7 +28,7 @@ body {
   text-align: center;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   border-radius: 15px;
-  background: #c0dfec; /* fallback for old browsers */
+  background: lavender; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to top,
     #92fe9d,
